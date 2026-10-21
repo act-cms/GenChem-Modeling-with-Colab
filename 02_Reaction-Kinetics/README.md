@@ -4,6 +4,12 @@ Lesson 02: Reaction Kinetics of Organic Reactions
 The purpose of this lesson is for students to read, interpret, and analyze kinetics data for organic reactions.
 
 ## Lesson Information
+* This activity was piloted during a 75-minute recitation in the second week of a second-semester general chemistry course.
+
+* Students had previously completed an introductory activity on Google Colab, Gemini, and basic Python programming.
+
+*This activity was implemented before integrated rate laws were formally introduced in lecture.
+
 ### Lesson Learning Outcomes
 At the end of this lesson, students will be able to...
 1. Represent concentration data in tables and graphs.
@@ -21,7 +27,7 @@ Before beginning this lesson, students are expected to be familiar with the
 following content topics:
 
 * Kinetics: reaction rate laws
-* Kinetics: Integrated rate laws
+
 
 ### Resources
 
@@ -39,17 +45,14 @@ One version of this lesson is provided, along with its intended modality of inst
 
 | Modality     | Pedagogy                | Role of Instructor                                                       | Lesson Version            |
 |--------------|-------------------------|---------------------------------------------------------------------------|--------------------------|
-| Synchronous  | Guided Inquiry Learning | Facilitate student process, answer questions, ensure nobody falls behind | `student.ipynb`  |
+| Synchronous  | Guided Inquiry Learning | Facilitate student process, answer questions, ensure nobody falls behind | `Reaction-order-student.ipynb`  |
 
 Also provided to support adopting instructors are
-- `instructor-key.ipynb`: Instructor "key" notebook with completed code cells
-- `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
-- 'Student.pdf': Student version of the recitation worksheet 
-- 'Instructor-key.pdf': Answer key to the recitation worksheet, provided for teaching and learning assistants.
-- 'Molecule-data.csv': Data file for the activity
-
-See the `instructor-notes.ipynb` For more information about implementation
-strategies from the lesson author.
+- `Reaction-order-instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
+- 'Reaction-order-worksheet.pdf': Student version of the recitation worksheet 
+- 'Reaction-order-molecule1-key.pdf': Answer key of the recitation worksheet for molecule 1.
+- 'Reaction-order-student.ipynb': Student version of the Colab notebook. 
+- 'Molecule1.csv' and 'Molecule2.csv: Data files for the activity
 
 
 
