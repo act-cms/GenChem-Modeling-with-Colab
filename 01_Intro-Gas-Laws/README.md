@@ -52,4 +52,6 @@ Also provided to support adopting instructors are
 - 'Intro-instructor-key.pdf': Answer key to the recitation worksheet, provided for teaching and learning assistants.
 - 'Intro-simulated-data.csv': Data file for the activity
 
+See the `Intro-instructor-notes.ipynb` For more information about implementation
+strategies from the lesson author.
 

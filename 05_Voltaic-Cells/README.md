@@ -4,6 +4,14 @@ Lesson 05: Impact of Concentrations on Voltaic Cell Potentials
 The purpose of this lesson is for students to perform data modeling for a voltaic cell under different conditions.
 
 ## Lesson Information
+
+* This activity was piloted during a 75-minute recitation session in the second-to-last week of a second-semester general chemistry course, following instruction on electrochemical work and the Nernst equation.
+
+* Prior to this activity, students had completed an introductory module on Google Colab, Gemini, and basic Python programming, along with two reaction kinetics activities and a titration curve analysis activity using common household acids.
+
+* The present activity is independent of the other activities and may be implemented in any order. We recommend students complete the introductory activity on Google Colab, Gemini, and basic Python programming beforehand to ensure they have the necessary technical foundation.
+
+
 ### Lesson Learning Outcomes
 At the end of this lesson, students will be able to...
 1. Interpret how concentration changes influence cell potential.
@@ -20,7 +28,9 @@ Before beginning this lesson, students are expected to be familiar with the
 following content topics:
 
 * Electrochemistry: electromotive force
+
 * Electrochemistry: Voltaic cells
+
 * Electrochemistry: electrochemical work
 
 ### Reference
@@ -42,16 +52,15 @@ One version of this lesson is provided, along with its intended modality of inst
 
 | Modality     | Pedagogy                | Role of Instructor                                                       | Lesson Version            |
 |--------------|-------------------------|---------------------------------------------------------------------------|--------------------------|
-| Synchronous  | Guided Inquiry Learning | Facilitate student process, answer questions, ensure nobody falls behind | `student.ipynb`  |
+| Synchronous  | Guided Inquiry Learning | Facilitate student process, answer questions, ensure nobody falls behind | `Cellpotential-student.ipynb`  |
 
 Also provided to support adopting instructors are
-- `instructor-key.ipynb`: Instructor "key" notebook with completed code cells
-- `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
-- 'Student.pdf': Student version of the recitation worksheet 
-- 'Instructor-key.pdf': Answer key to the recitation worksheet, provided for teaching and learning assistants.
-- 'Cell-data.csv': Data files for the activity
+- `Cellpotential-instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
+- 'Cellpotential-worksheet.pdf': Student version of the recitation worksheet 
+- 'Cellpotential-key.pdf': Answer key to the recitation worksheet, provided for teaching and learning assistants.
+- 'Cell-data.zip': Data files for the activity
 
-See the `instructor-notes.ipynb` For more information about implementation
+See the `Cellpotential-instructor-notes.ipynb` For more information about implementation
 strategies from the lesson author.
 
 

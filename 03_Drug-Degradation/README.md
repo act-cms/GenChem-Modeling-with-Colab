@@ -4,6 +4,15 @@ Lesson 03: Reaction Kinetics of Drug Degradation
 The purpose of this lesson is for students to read, interpret, and analyze kinetics data for drug degradation in aqueous solutions.
 
 ## Lesson Information
+
+* This activity was piloted during a 75-minute recitation in the second week of a second-semester general chemistry course.
+
+* Students had previously completed an introductory activity on Google Colab, Gemini, and basic Python programming.
+
+* Students had previously completed an activity on determining reaction order using integrated rate laws.
+
+* The present activity is independent of the reaction-order activity and can be implemented either before or after it.
+
 ### Lesson Learning Outcomes
 At the end of this lesson, students will be able to...
 1. Interpret and compare rate constants across temperatures and pHs values.
@@ -24,7 +33,10 @@ following content topics:
 
 ### References
 
-Drug data taken from Sun et al., Journal of Pharmaceutical Analysis (2019), Vol. 9, 423 - 430, https://doi.org/10.1016/j.jpha.2018.08.002
+Molecule 1 (Epalrestat) experimental data taken from Sun et al., Journal of Pharmaceutical Analysis (2019), Vol. 9, 423 - 430, https://doi.org/10.1016/j.jpha.2018.08.002
+
+Molecule 2 (Ibuprofen) experimental data taken from Atiq-ur-Rehman et al., Asian J. Chem. Vol. 24, No. 11 (2012), 4939-4943, https://asianpubs.org/index.php/ajchem/article/view/9801
+
 
 ### Resources
 
@@ -42,16 +54,15 @@ One version of this lesson is provided, along with its intended modality of inst
 
 | Modality     | Pedagogy                | Role of Instructor                                                       | Lesson Version            |
 |--------------|-------------------------|---------------------------------------------------------------------------|--------------------------|
-| Synchronous  | Guided Inquiry Learning | Facilitate student process, answer questions, ensure nobody falls behind | `student.ipynb`  |
+| Synchronous  | Guided Inquiry Learning | Facilitate student process, answer questions, ensure nobody falls behind | `Activation-energy-student.ipynb`  |
 
 Also provided to support adopting instructors are
-- `instructor-key.ipynb`: Instructor "key" notebook with completed code cells
-- `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
-- 'Student.pdf': Student version of the recitation worksheet 
-- 'Instructor-key.pdf': Answer key to the recitation worksheet, provided for teaching and learning assistants.
-- 'Drug-data.csv': Data file for the activity
+- `Activation-energy-instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
+- 'Activation-energy-worksheet.pdf': Student version of the recitation worksheet 
+- 'Activation-energy-molecule2-key.pdf': Answer key of the recitation worksheet for molecule 1.
+- 'Molecule1.csv' and 'Molecule2.csv: Data files for the activity
 
-See the `instructor-notes.ipynb` For more information about implementation
+See the `Activation-energy-instructor-notes.ipynb` For more information about implementation
 strategies from the lesson author.
 
 

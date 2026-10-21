@@ -51,8 +51,9 @@ Also provided to support adopting instructors are
 - `Reaction-order-instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
 - 'Reaction-order-worksheet.pdf': Student version of the recitation worksheet 
 - 'Reaction-order-molecule1-key.pdf': Answer key of the recitation worksheet for molecule 1.
-- 'Reaction-order-student.ipynb': Student version of the Colab notebook. 
 - 'Molecule1.csv' and 'Molecule2.csv: Data files for the activity
 
+See the `Reaction-order-instructor-notes.ipynb` For more information about implementation
+strategies from the lesson author.
 
 
